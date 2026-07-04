@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 Trong suốt thời gian thực tập tại **Công ty TNHH Amazon Web Services Việt Nam** từ **26/04/2026** đến **12/11/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng những kiến thức đã được học tại trường vào môi trường làm việc thực tế.
 
