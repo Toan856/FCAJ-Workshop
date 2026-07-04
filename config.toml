@@ -1,4 +1,4 @@
-baseURL = "https://toan856.githud.io/FCAJ-Workshop/"
+baseURL = "https://toan856.github.io/FCAJ-Workshop/"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
